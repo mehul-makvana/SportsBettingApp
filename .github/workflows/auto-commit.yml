@@ -25,5 +25,5 @@ jobs:
           git config user.name "mehul-makvana"
           git config user.email "mehulmakavana52@gmail.com"
           git add .
-          git commit -m "Daily auto update $(date)" || echo "No changes"
+          git commit -m "fixed the issues"
           git push
